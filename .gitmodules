@@ -1,3 +1,0 @@
-[submodule "passwordGenerator"]
-	path = passwordGenerator
-	url = https://github.com/Rhythm1821/react-password-generator
